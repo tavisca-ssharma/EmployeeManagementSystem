@@ -1,0 +1,14 @@
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\netcoreapp2.2\EmployeeManagementSystem.deps.json
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\netcoreapp2.2\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\netcoreapp2.2\EmployeeManagementSystem.runtimeconfig.dev.json
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\netcoreapp2.2\EmployeeManagementSystem.dll
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\netcoreapp2.2\EmployeeManagementSystem.pdb
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.dll
+C:\Users\sasharma\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\netcoreapp2.2\EmployeeManagementSystem.pdb
